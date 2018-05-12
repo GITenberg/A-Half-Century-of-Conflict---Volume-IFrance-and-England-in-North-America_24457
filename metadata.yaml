@@ -1,0 +1,29 @@
+_repo: A-Half-Century-of-Conflict---Volume-IFrance-and-England-in-North-America_24457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+description: ''
+gutenberg_issued: '2008-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'E186'
+title: 'France and England in N America, Part VII, Vol 1: A Half-Century of Conflict'
+url: http://www.gutenberg.org/ebooks/24457
